@@ -12,7 +12,7 @@ print(bicycles)
 #index positions start at 0, not 1
 print("    " + bicycles[0].title())
 print("\t" + bicycles[1].title())
-print("\t\t" + bicycles[2].upper())
+print("\t\t" + bicycles[2].upper()) 
 print("\t\t\t" + bicycles[3].title())
 print(bicycles[-1], bicycles[-2])
 
