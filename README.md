@@ -1,5 +1,13 @@
-<h1 align="center"> Python Crash Course <a href="[https://github.com/BKnightHD/Python-CC/blob/main/Textbook/python-crash-course.pdf" target="blank](https://github.com/BKnightHD/Python-CC/blob/main/Additional%20Files/images/Capture.PNG)"><img align="center" src="https://github.com/BKnightHD/Python-CC/blob/main/additional%20files/images/Capture.PNG" alt="brandon knight" width="30" height="30" /></a>
+<h1 align="center">
+  Python Crash Course
+</h1>
+
+<p align="center">
+  <a href="https://github.com/BKnightHD/Python-CC/blob/readme-update/Textbook/python-crash-course.pdf" target="_blank">
+    <img src="https://raw.githubusercontent.com/BKnightHD/Python-CC/main/Additional%20Files/images/Capture.PNG" width="40" alt="Python Crash Course Textbook">
+  </a>
 </p>
+
   
 ---
 
