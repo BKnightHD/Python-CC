@@ -1,5 +1,5 @@
 <h1 align="center">Python Crash Course <img src="https://raw.githubusercontent.com/BKnightHD/Python-CC/main/Additional%20Files/images/Capture.PNG" width="40" alt="Brandon Knight"><img align="center"
-src="https://github.com/BKnightHD/Python-CC/blob/main/Textbook/python-crash-course.pdf)"
+src="https://github.com/BKnightHD/Python-CC/blob/main/Textbook/python-crash-course.pdf)" alt="brandon knight" width="30" height="30" /></a>
 
 </p>
   
