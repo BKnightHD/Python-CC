@@ -1,9 +1,8 @@
-# Python Crash Course
+# Python Crash Course <img src="https://raw.githubusercontent.com/BKnightHD/Python-CC/main/Additional%20Files/images/Capture.PNG" width="40" alt="Brandon Knight">
 
 [Python Crash Course](https://github.com/BKnightHD/Python-CC/blob/main/Textbook/python-crash-course.pdf)
 
-<img src="https://raw.githubusercontent.com/BKnightHD/Python-CC/main/Additional%20Files/images/Capture.PNG" width="40" alt="Brandon Knight">
-
+</p>
   
 ---
 
